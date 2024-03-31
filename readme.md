@@ -2,7 +2,6 @@
 
 ```csharp
 github.com/efelleto
-dc  $ @807l
 ```
 &zwnj; 
 &zwnj; 
