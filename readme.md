@@ -1,8 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=welcome+%7C+efelleto)](https://git.io/typing-svg)
+![header](https://github.com/Devuxious/Devuxious/assets/17689226/6387114f-4948-44ad-bbd3-61a061a0a74d)
 
-```csharp
-github.com/efelleto
-```
-&zwnj; 
-&zwnj; 
-![](https://komarev.com/ghpvc/?username=efelleto)
+<h1 align="center">efelleto</h1>
+<div align="center">
+  <p>
+    <!-- credits: vast -->
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=efelleto&countColor=%23000000" alt="Profile Views"/>
+      <img height="25" src="https://img.shields.io/github/followers/efelleto?color=000000&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+      <img height="25" src="https://img.shields.io/github/stars/efelleto?color=000000&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+    </div>
+  </p>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=efelleto&title_color=000000&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=false" />
+</p>
+
+![footer](https://github.com/Devuxious/Devuxious/assets/17689226/378b7928-829e-467d-ac4e-631195ac72f7)
+
