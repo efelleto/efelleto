@@ -51,16 +51,17 @@ Software Engineering student focused on scalable architecture and the FOSS ethos
   </picture>
 </p>
 
-## 💭 Dev Quote
+// ## 💭 Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+// <p align="center">
+//  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+// </p>
 
 ---
 
 <p align="center">
   <strong>Thanks for visiting!</strong> ⭐ Don't forget to Star my repos if you enjoy them! 
 </p>
+
 
 
