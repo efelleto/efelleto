@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%20%F0%9F%91%8B%20I'm%20Eduardo" alt="Typing SVG" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=efelleto&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/followers/efelleto?style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=efelleto&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/follower/efelleto?style=flat-square&color=blue)
 
 </div>
 
@@ -62,3 +62,4 @@ Software Engineering student focused on scalable architecture and the FOSS ethos
 <p align="center">
   <strong>Thanks for visiting!</strong> ⭐ Don't forget to Star my repos if you enjoy them! 
 </p>
+
