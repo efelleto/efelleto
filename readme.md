@@ -58,10 +58,8 @@ Software Engineering student focused on scalable architecture and the FOSS ethos
  </p>
 
 ---
-
-<p align="center">
-  <strong>Thanks for visiting!</strong> ⭐ Don't forget to Star my repos if you enjoy them! 
 </p>
+
 
 
 
