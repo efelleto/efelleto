@@ -1,6 +1,6 @@
 #  Eduardo Felleto
 
-Software Engineering student focused on scalable architecture and the FOSS ethos. I'm a developer driven by a curiosity for learning and writing clean, reusable code. Passionate about cybersecurity, open standards, and decentralizing the digital world, I enjoy collaborating with friends and devising my own solutions for everyday technical challenges..
+Software Engineering student focused on scalable architecture and the FOSS ethos. I'm a developer driven by a curiosity for learning and writing clean, reusable code. Passionate about cybersecurity, open standards, and decentralizing the digital world, I enjoy collaborating with friends and devising my own solutions for everyday technical challenges.
 
 
 ---
